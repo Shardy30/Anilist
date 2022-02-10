@@ -1,7 +1,7 @@
 
 # Anilist
 
-This C program allows the user to either continue without logging into an account (limited features) or log in into an existing account (or create a fresh one). 
+This is an application wriiten in C which opens a whole new dimension of Anime to the user who can either continue without logging into an account (limited features) or log in into an existing account (or create a fresh one). 
 
 The program makes it easier for the user to search through the best sites which provide the required details about a particular anime, and other related stuff.
 It also includes search for OST (original sound track) and AMV (Anime music videos) wallpapers, fan arts and related merchandise though sites.
