@@ -8,6 +8,8 @@ It also includes search for OST (original sound track) and AMV (Anime music vide
 
 An example - Searching an anime through Anilist -
 
+![Anilist Interface to search anime](https://github.com/Shardy30/Anilist/blob/master/ScreenShots/ss1.png)
+![Redirected Site and popup message](https://github.com/Shardy30/Anilist/blob/master/ScreenShots/ss2.png)
 
 The program can also recommend Animes based on a particular genre. Details about top airing Animes and such things. This implements the usage of various websites which provide details on such topics.
 Now, the features such as starting a hot topic related to any anime and commenting on existing ones is also available. This would be possible only between the users which are logged in into the program.
@@ -24,5 +26,7 @@ So try it for yourself.
 
 Just Download the zip file, extract it and double click the "Anilist.exe - Shortcut" file to run the application.
 This will run the Application if it has valid permissions. 
+
+![How to Run Anilist](https://github.com/Shardy30/Anilist/blob/master/ScreenShots/ss3.png)
 
 Maximize the window to full view and then Press any key to Start Anilist - Your own Animeground.
